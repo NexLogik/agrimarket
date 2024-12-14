@@ -4,11 +4,11 @@
 
 **Open Source for Everyone:**
 
-AgriMarket is an open-source project built by [NexLogik](agrimarketdocs.nexlogik.io) and welcomes contributions from the community! We encourage developers, farmers, and anyone passionate about supporting Somali agriculture to join us in making this platform even better. 
+AgriMarket is an open-source project built by [NexLogik](https://nexlogik.io) and welcomes contributions from the community! We encourage developers, farmers, and anyone passionate about supporting Somali agriculture to join us in making this platform even better. 
 
 **What You'll Find Here:**
 
-* **Comprehensive Documentation:** Visit [AgriMarket Docs](agrimarketdocs.nexlogik.io) for comprehensive guides on:
+* **Comprehensive Documentation:** Visit [AgriMarket Docs](https://agrimarketdocs.nexlogik.io) for comprehensive guides on:
     * Installation
     * Understanding AgriMarket
     * Using the platform for farmers and buyers
