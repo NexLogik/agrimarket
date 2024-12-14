@@ -31,7 +31,7 @@ AgriMarket is an open-source project built by [NexLogik](https://nexlogik.io) an
 
 **Getting Started:**
 
-Detailed installation instructions and usage guides are available in the comprehensive documentation at [AgriMarket Docs](agrimarketdocs.nexlogik.io).
+Detailed installation instructions and usage guides are available in the comprehensive documentation at [AgriMarket Docs](https://agrimarketdocs.nexlogik.io).
 
 **Contributing:**
 
@@ -40,9 +40,3 @@ We welcome community contributions to enhance AgriMarket's functionalities and r
 **Let's build a thriving agricultural ecosystem together!**
 
 **We appreciate your interest in AgriMarket!**
-
-**Additional Notes:**
-
-* Feel free to add a badge for any relevant open-source licenses used in the project.
-* Consider including screenshots or a short video demonstrating the platform's features.
-* You can add links to your project's website or social media channels (if applicable). 
