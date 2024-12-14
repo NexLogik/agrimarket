@@ -1,3 +1,6 @@
+
+![Screenshot 2024-12-14 at 5 45 10 PM](https://github.com/user-attachments/assets/8d3759fa-868a-4807-8c1c-867da553403e)
+
 ## AgriMarket: Empowering Somali Agriculture
 
 **AgriMarket** is an open-source digital marketplace connecting farmers and buyers in Somalia. It empowers farmers to list their products, while buyers can browse, purchase, and manage orders. This platform promotes direct trade and supports the growth of Somalia's agricultural sector.
