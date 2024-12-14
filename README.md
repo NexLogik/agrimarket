@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## AgriMarket: Empowering Somali Agriculture
 
-## Getting Started
+**AgriMarket** is an open-source digital marketplace connecting farmers and buyers in Somalia. It empowers farmers to list their products, while buyers can browse, purchase, and manage orders. This platform promotes direct trade and supports the growth of Somalia's agricultural sector.
 
-First, run the development server:
+**What You'll Find Here:**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Comprehensive Documentation:** Visit [AgriMarket Docs](agrimarketdocs.nexlogik.io) for comprehensive guides on:
+  - Installation
+  - Understanding AgriMarket
+  - Using the platform for farmers and buyers
+  - Contributing to the project
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Benefits:**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**For Farmers:**
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- List and showcase agricultural products to a wider audience.
+- Reach new potential buyers and expand market reach.
+- Manage listings and orders efficiently.
 
-## Learn More
+**For Buyers:**
 
-To learn more about Next.js, take a look at the following resources:
+- Browse a diverse range of agricultural products from Somali farmers.
+- Simplify the purchasing process with online order management.
+- Support local agriculture and contribute to Somalia's economic growth.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**Getting Started:**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Detailed installation instructions and usage guides are available in the comprehensive documentation at [AgriMarket Docs](agrimarketdocs.nexlogik.io).
 
-## Deploy on Vercel
+**Contributing:**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+We welcome community contributions to enhance AgriMarket's functionalities and reach. The documentation provides information on contributing code, documentation, or other aspects of the project.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+**Let's build a thriving agricultural ecosystem together!**
+
+**We appreciate your interest in AgriMarket!**
+
+**Additional Notes:**
+
+- Feel free to add a badge for any relevant open-source licenses used in the project.
+- Consider including screenshots or a short video demonstrating the platform's features.
+- You can add links to your project's website or social media channels (if applicable).
