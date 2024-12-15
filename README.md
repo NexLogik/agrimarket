@@ -1,5 +1,6 @@
 
-![Screenshot 2024-12-14 at 5 45 10 PM](https://github.com/user-attachments/assets/7d214592-d997-4af0-9edf-1cb7e2ab9a7d)
+![agrimarketlogo](https://github.com/user-attachments/assets/2824e5c9-d231-4849-860f-054edffa5f56)
+
 
 ## AgriMarket: Empowering Somali Agriculture
 
