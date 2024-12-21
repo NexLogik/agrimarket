@@ -6,7 +6,7 @@
 
 **AgriMarket** is an open-source digital marketplace connecting farmers and buyers in Somalia. It empowers farmers to list their products, while buyers can browse, purchase, and manage orders. This platform promotes direct trade and supports the growth of Somalia's agricultural sector.
 
-**Open Source for Everyone:**
+**Open Source for Everyone**
 
 AgriMarket is an open-source project built by [NexLogik](https://nexlogik.io) and welcomes contributions from the community! We encourage developers, farmers, and anyone passionate about supporting Somali agriculture to join us in making this platform even better. 
 
