@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "prisma:generate": "prisma generate",
+    "prisma:migrate": "prisma migrate deploy",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "start:prod": "node server.js",
     "lint": "next lint"
   },
   "dependencies": {
